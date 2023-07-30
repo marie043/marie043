@@ -1,6 +1,7 @@
 ### KIM SIEUN
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white) 
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=#00599C)
+[![marie's GitHub stats](https://github-readme-stats.vercel.app/api?username=marie043)](https://github.com/marie043/github-readme-stats)
 <!--
 **marie043/marie043** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
