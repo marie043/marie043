@@ -3,7 +3,7 @@
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=#00599C) <br><hr>
 ![marie's GitHub stats](https://github-readme-stats.vercel.app/api?username=marie043&show_icons=true&theme=onedark)<br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sieun043)](https://solved.ac/sieun043/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=marie043)](https://solved.ac/marie043/)
 
 <!--
 **marie043/marie043** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
