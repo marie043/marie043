@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-24T00:09:51.972Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="iEZvtgZ8RZZLGcbdoIi5" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-24T00:12:27.870Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="QujV5dmPIWrenvhitFDb" version="21.6.9" type="github">
   <diagram id="jS05yv5X7Ztg5khlOgcX" name="Page-1">
     <mxGraphModel dx="1470" dy="897" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -364,7 +364,7 @@
         <mxCell id="mp_pFHN7LCUCz9aoYGLi-132" value="" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.action_bar_landscape;fillColor=#E6E6E6;strokeColor=#c0c0c0;strokeWidth=2;whiteSpace=wrap;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="644.25" y="1025" width="184" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mp_pFHN7LCUCz9aoYGLi-133" value="Today&#39;s&amp;nbsp; Report" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="mp_pFHN7LCUCz9aoYGLi-133" value="End Tour" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="689.38" y="1025" width="93.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mp_pFHN7LCUCz9aoYGLi-135" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;i&gt;08.04 12:59 12$&lt;/i&gt;&lt;/span&gt;" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;align=center;sketch=1;curveFitting=1;jiggle=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -414,6 +414,39 @@
         </mxCell>
         <mxCell id="mp_pFHN7LCUCz9aoYGLi-152" value="보여주기" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="748.13" y="1410" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mp_pFHN7LCUCz9aoYGLi-153" value="&lt;p&gt;&lt;i style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;&amp;nbsp;Tour Name&lt;/b&gt;&lt;/font&gt;&lt;/i&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="670.01" y="1540" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mp_pFHN7LCUCz9aoYGLi-154" value="" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.action_bar_landscape;fillColor=#E6E6E6;strokeColor=#c0c0c0;strokeWidth=2;whiteSpace=wrap;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="652.25" y="1505" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mp_pFHN7LCUCz9aoYGLi-155" value="View Tour" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="697.38" y="1505" width="93.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mp_pFHN7LCUCz9aoYGLi-162" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;strokeColor=none;shape=rect;fillColor=#33b5e5;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="670.01" y="1572" width="80" height="78.12" as="geometry" />
+        </mxCell>
+        <mxCell id="mp_pFHN7LCUCz9aoYGLi-163" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;strokeColor=none;shape=rect;fillColor=#9933cc;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="760.01" y="1570" width="50" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="mp_pFHN7LCUCz9aoYGLi-164" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;strokeColor=none;shape=rect;fillColor=#cc0000;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="760.01" y="1623.56" width="50" height="69.56" as="geometry" />
+        </mxCell>
+        <mxCell id="mp_pFHN7LCUCz9aoYGLi-165" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;strokeColor=none;shape=rect;fillColor=#669900;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="670.01" y="1655.12" width="80" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="mp_pFHN7LCUCz9aoYGLi-166" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;strokeColor=none;shape=rect;fillColor=#0099cc;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="730.01" y="1701.12" width="80" height="107" as="geometry" />
+        </mxCell>
+        <mxCell id="mp_pFHN7LCUCz9aoYGLi-167" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;strokeColor=none;shape=rect;fillColor=#ffbb33;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="670.01" y="1701.12" width="50" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="mp_pFHN7LCUCz9aoYGLi-168" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;strokeColor=none;shape=rect;fillColor=#99cc00;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="670.01" y="1761.12" width="50" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="mp_pFHN7LCUCz9aoYGLi-169" value="" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.scrollbars2;fillColor=#999999;strokeColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="828.01" y="1652.2399999999998" width="4" height="53" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
