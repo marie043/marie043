@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-23T23:06:54.309Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="Itwrxzhx-KNLHVoW29cq" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-24T00:03:35.630Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="hIdzsVEmDyNa2s_pgAE0" version="21.6.9" type="github">
   <diagram id="jS05yv5X7Ztg5khlOgcX" name="Page-1">
     <mxGraphModel dx="1470" dy="897" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -269,7 +269,7 @@
           <mxGeometry x="1000.01" y="1300" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mp_pFHN7LCUCz9aoYGLi-91" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="926.25" y="1470" width="200" height="390" as="geometry" />
+          <mxGeometry x="930.01" y="1470" width="200" height="390" as="geometry" />
         </mxCell>
         <mxCell id="mp_pFHN7LCUCz9aoYGLi-92" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.495;exitY=1.005;exitDx=0;exitDy=0;exitPerimeter=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -330,6 +330,72 @@
         </mxCell>
         <mxCell id="mp_pFHN7LCUCz9aoYGLi-117" value="큰 지출이 있다면" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1180" y="1280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mp_pFHN7LCUCz9aoYGLi-118" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fillColor=#ffffff;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="950" y="1560" width="150" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="mp_pFHN7LCUCz9aoYGLi-119" value="&lt;i&gt;Meal&lt;/i&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fillColor=#eeeeee;strokeColor=#999999;gradientColor=#cccccc;align=left;spacingLeft=4;fontSize=17;fontColor=#666666;labelPosition=right;" vertex="1" parent="mp_pFHN7LCUCz9aoYGLi-118">
+          <mxGeometry x="8" y="7.5" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="mp_pFHN7LCUCz9aoYGLi-120" value="&lt;i&gt;Transportation&lt;/i&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fillColor=#eeeeee;strokeColor=#999999;gradientColor=#cccccc;align=left;spacingLeft=4;fontSize=17;fontColor=#666666;labelPosition=right;" vertex="1" parent="mp_pFHN7LCUCz9aoYGLi-118">
+          <mxGeometry x="8" y="37.5" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="mp_pFHN7LCUCz9aoYGLi-121" value="&lt;i&gt;Ticket&lt;/i&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.checkbox;rSize=0;resizable=0;fillColor=#aaaaaa;strokeColor=#444444;gradientColor=#666666;align=left;spacingLeft=4;fontSize=17;fontColor=#008cff;labelPosition=right;" vertex="1" parent="mp_pFHN7LCUCz9aoYGLi-118">
+          <mxGeometry x="8" y="67.5" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="mp_pFHN7LCUCz9aoYGLi-122" value="&lt;i&gt;Cafe&lt;/i&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fillColor=#eeeeee;strokeColor=#999999;gradientColor=#cccccc;align=left;spacingLeft=4;fontSize=17;fontColor=#666666;labelPosition=right;" vertex="1" parent="mp_pFHN7LCUCz9aoYGLi-118">
+          <mxGeometry x="8" y="97.5" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="mp_pFHN7LCUCz9aoYGLi-126" value="Shopping" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fillColor=#eeeeee;strokeColor=#999999;gradientColor=#cccccc;align=left;spacingLeft=4;fontSize=17;fontColor=#666666;labelPosition=right;" vertex="1" parent="mp_pFHN7LCUCz9aoYGLi-118">
+          <mxGeometry x="8" y="126" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="mp_pFHN7LCUCz9aoYGLi-129" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="636.25" y="990" width="200" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="mp_pFHN7LCUCz9aoYGLi-130" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="mp_pFHN7LCUCz9aoYGLi-60" target="mp_pFHN7LCUCz9aoYGLi-129">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="750" y="1110" as="sourcePoint" />
+            <mxPoint x="800" y="1060" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mp_pFHN7LCUCz9aoYGLi-131" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;i&gt;Let&#39;s Review This Trip!&lt;/i&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="663.13" y="1060" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mp_pFHN7LCUCz9aoYGLi-132" value="" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.action_bar_landscape;fillColor=#E6E6E6;strokeColor=#c0c0c0;strokeWidth=2;whiteSpace=wrap;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="644.25" y="1025" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mp_pFHN7LCUCz9aoYGLi-133" value="Today&#39;s&amp;nbsp; Report" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="689.38" y="1025" width="93.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mp_pFHN7LCUCz9aoYGLi-135" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;i&gt;Payment1 10:59 12$&lt;/i&gt;&lt;/span&gt;" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;align=center;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="544.38" y="1157.5" width="123.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mp_pFHN7LCUCz9aoYGLi-139" value="&lt;i&gt;more&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4" vertex="1" parent="1">
+          <mxGeometry x="706.25" y="1300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mp_pFHN7LCUCz9aoYGLi-140" value="여행 끝" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="810" y="930" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mp_pFHN7LCUCz9aoYGLi-141" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;i&gt;What is your best Consumtion&lt;sup&gt;?&lt;/sup&gt;&lt;/i&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="654.69" y="1122.5" width="163.12" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mp_pFHN7LCUCz9aoYGLi-142" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;i&gt;Payment1 10:59 12$&lt;/i&gt;&lt;/span&gt;" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;align=center;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="678.13" y="1157.5" width="123.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mp_pFHN7LCUCz9aoYGLi-143" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;i&gt;Payment1 10:59 12$&lt;/i&gt;&lt;/span&gt;" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;align=center;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="811.88" y="1157.5" width="123.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mp_pFHN7LCUCz9aoYGLi-144" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;i&gt;Payment1 10:59 12$&lt;/i&gt;&lt;/span&gt;" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;align=center;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="540.63" y="1260" width="123.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mp_pFHN7LCUCz9aoYGLi-145" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;i&gt;Payment1 10:59 12$&lt;/i&gt;&lt;/span&gt;" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;align=center;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="674.38" y="1260" width="123.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mp_pFHN7LCUCz9aoYGLi-146" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;i&gt;Payment1 10:59 12$&lt;/i&gt;&lt;/span&gt;" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;align=center;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="808.13" y="1260" width="123.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mp_pFHN7LCUCz9aoYGLi-147" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;i&gt;What is your worst Consumtion&lt;sup&gt;?&lt;/sup&gt;&lt;/i&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="656.88" y="1220" width="163.12" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
